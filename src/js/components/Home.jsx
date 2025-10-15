@@ -11,7 +11,7 @@ const Home = () => {
 
 			<h1 className="text-center mt-5">Hello Rigo!</h1>
 			<p>
-				<img src={rigoImage} />
+				<img src={gatito} />
 			</p>
 			<a href="#" className="btn btn-success">
 				If you see this green button... bootstrap is working...
